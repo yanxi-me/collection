@@ -1,6 +1,6 @@
 #### 我的收藏
 
-发现用Github管理收藏挺方便，可以随时更新。这个项目将分门别类收集我经常使用的网站，尽量经常来更新。
+发现用Github管理收藏挺方便，可以随时更新，本项目将分门别类收集我经常使用的网站。
 
 <table>
     <tr>
@@ -22,6 +22,7 @@
     <tr>
         <td><a target="_blank" href="http://news.dbanotes.net/">Startup News</a></td>
         <td><a target="_blank" href="https://bitbucket.org/">Bitbucket</a></td>
+        <td><a target="_blank" href="https://github.com/foru17/front-end-collect/blob/master/README.md">前端收集</a></td>
     </tr>
 </table>
 
