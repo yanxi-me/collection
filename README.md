@@ -1,6 +1,6 @@
 #### 我的收藏
 
-发现用Github管理收藏夹挺方便，这个项目将分门别类收集我经常使用的网站，会经常更新。
+发现用Github管理收藏挺方便，可以随时更新。这个项目将分门别类收集我经常使用的网站，我会经常来更新。
 
 <table>
     <tr>
@@ -32,6 +32,7 @@
     <tr>
         <td><a target="_blank" href="http://www.btc123.com">BTC123</a></td>
         <td><a target="_blank" href="http://www.btcman.com">比特人</a></td>
+        <td><a target="_blank" href="http://btc.yanxi.com">比特币文摘</a></td>
         <td><a target="_blank" href="http://blockchain.org">BlockChain</a></td>
     </tr>
 </table>
